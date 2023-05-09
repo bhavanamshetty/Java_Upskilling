@@ -22,6 +22,8 @@ public class Question6 {
 		{
 			System.out.println("c is greater");
 		}
+		/*int d=(a>b)? (a>c?a:c): (b>c?b:c);    using ternary operator
+		System.out.println(d); */
 		
 	}
 

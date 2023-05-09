@@ -9,8 +9,8 @@ public class Question10_magic {
 		//19=1 + 9 = 10       ---->1 + 0 = 1
 		Scanner in = new Scanner(System.in);
 		System.out.println("enter number: ");
-		int n = in.nextInt();
-		int num = n;
+		int num = in.nextInt();
+		
 		int sum = 0, r ;
 		while (num > 9) {
 

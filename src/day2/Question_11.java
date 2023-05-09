@@ -39,7 +39,7 @@ public class Question_11 {
 
 		System.out.println(search + " occurs " + count + " times in the array.");
 
-		sc.close();
+		
 
 	}
 
